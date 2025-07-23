@@ -1,0 +1,4 @@
+2025-07-23 20:30:01,574 - INFO - f{request.user_id} logged {request.intake_ml}ml
+2025-07-23 20:33:15,328 - INFO - f{request.user_id} logged {request.intake_ml}ml
+2025-07-23 20:34:53,328 - INFO - f{request.user_id} logged {request.intake_ml}ml
+2025-07-23 20:39:17,626 - INFO - f{request.user_id} logged {request.intake_ml}ml
